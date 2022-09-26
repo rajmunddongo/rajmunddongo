@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajmunddongo
-- 👀 I’m interested in backend development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Spring boot.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me trough email: rajmunddongo@gmail.com
